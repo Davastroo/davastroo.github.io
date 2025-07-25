@@ -39,4 +39,4 @@ This is the source code for [davastro.com](https://davastro.com), a minimalist p
 
 ---
 
-## 🧑‍🚀 Made by [@davastro](https://twitch.tv/davastro) — reach for the stars!
+## 🧑‍🚀 Made by [@davastro](https://twitch.tv/davastro)
